@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![rawwap](https://img.shields.io/badge/rawwap-github-blue)](https://github.com/rawwap)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am currently pursuing a Bachelor's degree in Robotics Engineering at the School of Control Science and Engineering, Shandong University, China. As a member of the ​Multimedia and Vision Processing Group (MVP Group), which is affiliated to the Key Laboratory of Machine Intelligence & System Control，Ministry of Education, my work focuses on ​cross-domain few-shot semantic segmentation.
 
 #### Email
-sli[at]cumt.edu.cn
+rawwap@qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.Eng. Robotics Engineering, Shandong University, 2022.09-present.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Computer Vision, Few-shot Learning, Robotics, Embodied Intelligence.
 
